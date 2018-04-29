@@ -1,0 +1,42 @@
+INSERT INTO EMPLOYEESINFO VALUES (1,  'Albert', 123,  'CEO',  110,  5000000,'Bangalore',12345);
+select * from employeesinfo;
+Insert Into EMPLOYEESINFO VALUES(16,'srinivas',222, 'cleaner',20,520, 'pandya', 852);
+Insert Into EMPLOYEESINFO VALUES(17,'pavan',232, 'cleaner', 22,522,'madya',550);
+Insert Into EMPLOYEESINFO VALUES(18,'Ram', 44,'Attender', 44,5454,'Bangalore', 789);
+Insert Into EMPLOYEESINFO VALUES(19,'shayam',54,'Attender',454,44,'Nepal',8856);
+Insert Into EMPLOYEESINFO VALUES(20,'Sushmitha',121,'Aaya',565,454,'Bangalore',885);
+Insert Into EMPLOYEESINFO VALUES(21,'Prajawala',741,'Attender',7455,855, 'hubli',654);
+Insert Into EMPLOYEESINFO VALUES(22,'Anu',452,'Attender',666,456,'Mangalore',852);
+Insert Into EMPLOYEESINFO VALUES(23,'Prajka',654, 'koni', 3254, 7539,'Bangalore',652);
+Insert Into EMPLOYEESINFO VALUES(24,'sanjana', 0212,'controller',565,855, 'bangalore',556);
+Insert Into EMPLOYEESINFO VALUES(25,'padmaja',450,'notes_maker',558,951,'tamil',9510);
+Insert Into EMPLOYEESINFO VALUES(26,'silpa', 852,'don', 6541,1254,'andra',8520);
+Insert Into EMPLOYEESINFO VALUES(27,'viraj',7536,'cook',4520,420,'mumbai',111);
+Insert Into EMPLOYEESINFO VALUES(28,'manish',488,'coder',8520,65412,'mum',420);
+Insert Into EMPLOYEESINFO VALUES(29,'kartik',85211,'analyt',85266,54123,'mum',666);
+Insert Into EMPLOYEESINFO VALUES(30,'abhi',9898,'desihn',56565,5255,'mum',45330);
+Insert Into EMPLOYEESINFO VALUES(31,'akshit',789,'analuyt',8555,65656,'punj',63254);
+Insert Into EMPLOYEESINFO VALUES(32,'mohan',666,'analyy',55112,74111,'hyd',96320);
+Insert Into EMPLOYEESINFO VALUES(33,'khush', 8555,'analyst',3333,8888,'mumbai',65412);
+Insert Into EMPLOYEESINFO VALUES(34,'vyshak',4444,'checher',56565,8888,'kidugu',1226);
+Insert Into EMPLOYEESINFO VALUES(35,'vijay',753,'atttender',656544,852014,'hudera',9632);
+Insert Into EMPLOYEESINFO VALUES(36,'roshan',64444,'racer',1010,20202,'bangalore',3000);
+Insert Into EMPLOYEESINFO VALUES(37,'raesh',3434,'cleaner',1312,4546,'bijapur',2322);
+Insert Into EMPLOYEESINFO VALUES(38,'sid',555,'comedian',2202,6434,'hubli',66778);
+Insert Into EMPLOYEESINFO VALUES(39,'rishav',05050,'tester',8688,34534,'assam',994034);
+Insert Into EMPLOYEESINFO VALUES(40,'ankit',01022,'checker',55567,89654,'bihar',0994827);
+Insert Into EMPLOYEESINFO VALUES(41,'rohit',939293,'party',83723,2345,'parter',918274);
+Insert Into EMPLOYEESINFO VALUES(42,'nupur',55645,'donot',64345,136,'study', 12389);
+Insert Into EMPLOYEESINFO VALUES(43,'kamali',8522,'teacher',66655,220211,'minar',78895);
+Insert Into EMPLOYEESINFO VALUES(44,'kimsi',92834,'hod',39203,85353,'kashmir',82229);
+Insert Into EMPLOYEESINFO VALUES(45,'nayana',674567,'teacher',86899,78669,'shivamogga',463456);
+Insert Into EMPLOYEESINFO VALUES(46,'pavitra',8765,'married',74635,959694,'mangalore',98443);
+Insert Into EMPLOYEESINFO VALUES(47,'komi',7758,'traiiler',7723623,8477434,'mahara',734590);
+Insert Into EMPLOYEESINFO VALUES(48,'kokila',13368,'heroine',67748,26374,'ahamed',73463);
+Insert Into EMPLOYEESINFO VALUES(49,'kingar',757439,'conused',88537,532745,'pak',230948);
+Insert Into EMPLOYEESINFO VALUES(50,'singh',47234,'tester',4662347,475346,'mumbao',8348437);
+Insert Into EMPLOYEESINFO VALUES(51,'Fabian',4384,'agent',834734,235449,'chicgo',102934);
+------------------------------------------
+-------------------------------------------
+SELECT * FROM SCANNINGSYSTEM;
+
